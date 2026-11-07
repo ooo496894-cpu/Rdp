@@ -1,6 +1,6 @@
 name: Windows RDP
 
-on: 
+on: 100.1826.10001
   workflow_dispatch:
 
 jobs:
